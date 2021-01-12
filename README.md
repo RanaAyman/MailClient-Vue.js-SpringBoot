@@ -51,21 +51,21 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
     * your email in form: example@farmmail.com
     * your password
     
-* ![](images/signup.PNG)
+ ![](images/signup.PNG)
 
 * Login
   * Login screen required:
     * your email ex : akramovic@farmmail.com
     * you password
     
-* ![](images/login.PNG)
+ ![](images/login.PNG)
 
 
 * Inbox Mail
   * Inbox folder contains incoming mails and shows the name of sender, Date, Time, and Subject of each incoming mail.
   * Each mail has a "Show Message" button you can click it to show the whole body of the mail and any attached files & a "Hide Message" button to hide the mail's details.
 
-* ![](images/inbox.png)
+ ![](images/inbox.png)
 
 
 * Sent Mail
@@ -83,7 +83,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   * You can save a contact by entering only the email of the registered user and we will match his name with this email.
   contacts
   
-* ![](images/contacts.png)
+ ![](images/contacts.png)
 
 
 * Compose new mail
@@ -94,7 +94,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   * you can save message in draft using draft button
   * if you choose X it will close only compose screen but it will save message to continue any time
 
-* ![](images/compose.png)
+ ![](images/compose.png)
   
   
 * Search
@@ -116,7 +116,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Dark Mode
   * Dark mode skin to save our eye in night
   
-* ![](images/dark%20mode.png)
+ ![](images/dark%20mode.png)
 
 
 
