@@ -3,10 +3,6 @@
 ![](images/login.PNG)
 ![](images/inbox.png)
 ![](images/dark%20mode.png)
-![](images/compose.png)
-
-
-
 
 
 ## Project setup
